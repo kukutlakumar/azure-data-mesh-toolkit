@@ -24,10 +24,11 @@ Built by a data architect with 18+ years of experience building enterprise data 
 🚧 **Under Active Development** - MVP launching March 2026
 
 **Development roadmap:**
-- ✅ Week 1: Foundation & research (Feb 11-17, 2026)
-- 🔄 Week 2: Domain data product templates (Feb 18-24, 2026)
-- ⏳ Week 3: Self-service platform tools (Feb 25-Mar 3, 2026)
-- ⏳ Week 4: Governance framework (Mar 4-10, 2026)
+Foundation & research 
+Domain data product templates 
+Self-service platform tools 
+Governance framework 
+
 
 ## 🎓 The Problem We're Solving
 
