@@ -13,7 +13,7 @@ Built by a data architect with 18+ years of experience building enterprise data 
 
 ## 🚀 What's Included
 
-### Currently Building (Q1 2026):
+### Currently Building :
 - **Domain Data Product Templates** - Standardized structure for creating data products
 - **Self-Service Platform Tools** - CLI and automation for domain teams  
 - **Federated Governance Framework** - Automated policy enforcement
