@@ -100,17 +100,17 @@ Interested in Data Mesh on Azure?
 
 ## 🗺️ Roadmap
 
-**Phase 1 (Q1 2026):** Foundation
+**Phase 1 :** Foundation
 - Domain data product templates
 - Basic CLI tooling
 - Governance framework
 
-**Phase 2 (Q2 2026):** Enhancement
+**Phase 2 :** Enhancement
 - Advanced automation
 - Multiple example implementations
 - Comprehensive documentation
 
-**Phase 3 (Q3 2026):** Maturity
+**Phase 3 :** Maturity
 - Community feedback integration
 - Production hardening
 - Case studies
