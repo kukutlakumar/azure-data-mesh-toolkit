@@ -9,7 +9,7 @@
 
 Most Data Mesh resources focus on **theory**. This toolkit provides **practical, production-ready templates and tools** to actually implement Data Mesh on Azure.
 
-Built by a data architect with 10+ years of experience building enterprise data platforms serving 500+ users.
+Built by a data architect with 18+ years of experience building enterprise data platforms serving 500+ users.
 
 ## 🚀 What's Included
 
